@@ -1,7 +1,1 @@
-##React Native sign in with Google demo
-
-Demo using https://www.npmjs.com/package/react-native-google-signin to provide a "login with Google" button.
-
-Demo then uses the bearer token returned above to call the calendar API.
-
-![Screenshot](https://raw.githubusercontent.com/stevecass/react-native-google-signin/master/sshot.png)
+This repo contains the code from a three person final project "Get Moving," which was an iOS app that sent notifications to users depending on when they needed to leave for events in their calendar. Travel time was calculated using the Google Maps API in a rake task in the 'get-moving-rails' repo.
